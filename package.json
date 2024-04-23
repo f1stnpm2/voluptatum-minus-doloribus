@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@f1stnpm2/voluptatum-minus-doloribus",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,20 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/f1stnpm2/voluptatum-minus-doloribus.git"
   },
   "dependencies": {
+    "@dfgyhujk7npm/ex-asperiores-dicta-temporibus": "^1.0.0",
+    "@dfgyhujk7npm/modi-blanditiis-provident-voluptas": "^1.0.0",
+    "@dfgyhujk7npm/veritatis-soluta-recusandae-officiis": "^1.0.0",
+    "@f1stnpm/corporis-velit-deleniti-temporibus": "^1.0.0",
+    "@f1stnpm/dolor-officia-est-asperiores": "^1.0.0",
+    "@f1stnpm/ea-sunt-delectus-nihil": "^1.0.0",
+    "@f1stnpm/eius-ab-blanditiis-voluptas": "^1.0.0",
+    "@f1stnpm/molestias-sint-cupiditate-illum": "^1.0.0",
+    "@f1stnpm/repellat-eveniet-pariatur-voluptas": "^1.0.0",
+    "@f1stnpm/tenetur-dicta-praesentium-explicabo": "^1.0.0",
+    "@f1stnpm/vitae-blanditiis-sint-tempore": "^1.0.0",
+    "@rtyughnnpm/molestiae-accusamus-minima-vitae": "^1.0.0"
   }
 }
